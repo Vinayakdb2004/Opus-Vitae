@@ -1,0 +1,511 @@
+ProgrammingLanguages,Technologies,Specialization,GPA,Projects,Internships,CommunicationSkills,ProblemSolvingSkills,Adaptability,IndustryPreference,RolePreference,LocationPreference,JobRole
+"Python, Java","AI, ML",AI Engineering,3.8,4,2,Excellent,High,High,Technology,Data Scientist,Remote,Data Scientist
+"JavaScript, Python",Web Development,Software Engineering,3.5,3,1,Good,Medium,High,Technology,Frontend Developer,On-site,Web Developer
+"C++, Python","Robotics, IoT",Robotics,3.9,5,3,Excellent,High,Medium,Manufacturing,Robotics Engineer,Hybrid,Robotics Eng.
+"SQL, Python",Data Analysis,Data Science,3.6,2,1,Good,High,High,Technology,Data Analyst,Remote,Data Analyst
+"Java, C#",Software Development,Software Engineering,3.4,3,1,Good,Medium,High,Finance,Backend Developer,On-site,Software Eng.
+"Python, R","ML, NLP",AI Engineering,3.7,4,2,Excellent,High,High,Healthcare,ML Engineer,Remote,ML Engineer
+"HTML, CSS, JS",Web Development,Software Engineering,3.2,2,0,Good,Medium,Medium,Technology,UI/UX Designer,On-site,Web Designer
+"C, C++",Embedded Systems,Electronics Eng.,3.5,3,1,Good,Medium,Medium,Manufacturing,Embedded Engineer,Hybrid,Embedded Eng.
+"Python, Julia","AI, Optimization",AI Engineering,4.0,6,3,Excellent,High,High,Research,AI Researcher,Hybrid,Researcher
+"PHP, JavaScript",Full Stack Dev,Software Engineering,3.3,2,1,Good,Medium,High,Technology,Full Stack Dev,On-site,Full Stack Dev
+"JavaScript, Python",Web Development,Software Engineering,3.03,3,1,Good,Medium,Medium,Technology,Frontend Developer,On-site,Web Developer
+"JavaScript, Python",Web Development,Software Engineering,3.68,5,0,Good,High,Medium,Technology,Frontend Developer,On-site,Web Developer
+"Python, Java","AI, ML",AI Engineering,3.09,2,0,Excellent,Medium,High,Technology,Data Scientist,Remote,Data Scientist
+"SQL, Python",Data Analysis,Data Science,3.45,3,0,Good,Medium,High,Technology,Data Analyst,Remote,Data Analyst
+"Python, R","ML, NLP",AI Engineering,3.28,2,2,Excellent,Medium,Medium,Healthcare,ML Engineer,Remote,ML Engineer
+"HTML, CSS, JS",Web Development,Software Engineering,3.1,3,2,Good,Medium,High,Technology,UI/UX Designer,On-site,Web Designer
+"Python, Julia","AI, Optimization",AI Engineering,3.12,4,0,Excellent,High,High,Research,AI Researcher,Hybrid,Researcher
+"PHP, JavaScript",Full Stack Dev,Software Engineering,3.19,1,0,Good,Medium,High,Technology,Full Stack Dev,On-site,Full Stack Dev
+"JavaScript, Python",Web Development,Software Engineering,3.86,1,3,Good,High,High,Technology,Frontend Developer,On-site,Web Developer
+"Python, R","ML, NLP",AI Engineering,3.16,3,1,Excellent,High,Medium,Healthcare,ML Engineer,Remote,ML Engineer
+"PHP, JavaScript",Full Stack Dev,Software Engineering,3.63,5,1,Good,Medium,High,Technology,Full Stack Dev,On-site,Full Stack Dev
+"HTML, CSS, JS",Web Development,Software Engineering,3.27,6,1,Good,High,Medium,Technology,UI/UX Designer,On-site,Web Designer
+"SQL, Python",Data Analysis,Data Science,3.82,3,3,Good,High,Medium,Technology,Data Analyst,Remote,Data Analyst
+"SQL, Python",Data Analysis,Data Science,3.91,5,2,Good,Medium,High,Technology,Data Analyst,Remote,Data Analyst
+"HTML, CSS, JS",Web Development,Software Engineering,3.88,6,3,Good,Medium,High,Technology,UI/UX Designer,On-site,Web Designer
+"C++, Python","Robotics, IoT",Robotics,3.25,5,2,Excellent,High,High,Manufacturing,Robotics Engineer,Hybrid,Robotics Eng.
+"Python, R","ML, NLP",AI Engineering,3.22,2,3,Excellent,Medium,Medium,Healthcare,ML Engineer,Remote,ML Engineer
+"JavaScript, Python",Web Development,Software Engineering,3.15,2,3,Good,Medium,High,Technology,Frontend Developer,On-site,Web Developer
+"HTML, CSS, JS",Web Development,Software Engineering,3.6,4,2,Good,Medium,Medium,Technology,UI/UX Designer,On-site,Web Designer
+"Python, Julia","AI, Optimization",AI Engineering,3.75,6,2,Excellent,Medium,High,Research,AI Researcher,Hybrid,Researcher
+"HTML, CSS, JS",Web Development,Software Engineering,3.16,1,2,Good,Medium,Medium,Technology,UI/UX Designer,On-site,Web Designer
+"Java, C#",Software Development,Software Engineering,3.84,5,1,Good,Medium,High,Finance,Backend Developer,On-site,Software Eng.
+"C++, Python","Robotics, IoT",Robotics,3.54,5,0,Excellent,High,High,Manufacturing,Robotics Engineer,Hybrid,Robotics Eng.
+"Python, Java","AI, ML",AI Engineering,3.11,3,2,Excellent,Medium,Medium,Technology,Data Scientist,Remote,Data Scientist
+"SQL, Python",Data Analysis,Data Science,3.88,1,0,Good,High,Medium,Technology,Data Analyst,Remote,Data Analyst
+"Python, Julia","AI, Optimization",AI Engineering,3.77,2,3,Excellent,Medium,High,Research,AI Researcher,Hybrid,Researcher
+"Python, Julia","AI, Optimization",AI Engineering,3.87,4,1,Excellent,Medium,High,Research,AI Researcher,Hybrid,Researcher
+"HTML, CSS, JS",Web Development,Software Engineering,4.0,6,2,Good,High,High,Technology,UI/UX Designer,On-site,Web Designer
+"JavaScript, Python",Web Development,Software Engineering,3.25,1,2,Good,Medium,Medium,Technology,Frontend Developer,On-site,Web Developer
+"PHP, JavaScript",Full Stack Dev,Software Engineering,3.22,1,0,Good,Medium,Medium,Technology,Full Stack Dev,On-site,Full Stack Dev
+"Python, Java","AI, ML",AI Engineering,3.86,1,1,Excellent,High,High,Technology,Data Scientist,Remote,Data Scientist
+"SQL, Python",Data Analysis,Data Science,3.54,6,3,Good,Medium,High,Technology,Data Analyst,Remote,Data Analyst
+"HTML, CSS, JS",Web Development,Software Engineering,3.19,1,3,Good,High,High,Technology,UI/UX Designer,On-site,Web Designer
+"HTML, CSS, JS",Web Development,Software Engineering,3.47,6,0,Good,Medium,Medium,Technology,UI/UX Designer,On-site,Web Designer
+"HTML, CSS, JS",Web Development,Software Engineering,3.73,1,1,Good,Medium,Medium,Technology,UI/UX Designer,On-site,Web Designer
+"Python, Julia","AI, Optimization",AI Engineering,3.45,4,1,Excellent,High,High,Research,AI Researcher,Hybrid,Researcher
+"SQL, Python",Data Analysis,Data Science,3.87,1,3,Good,Medium,Medium,Technology,Data Analyst,Remote,Data Analyst
+"Python, Julia","AI, Optimization",AI Engineering,3.84,1,1,Excellent,Medium,High,Research,AI Researcher,Hybrid,Researcher
+"C, C++",Embedded Systems,Electronics Eng.,3.48,4,0,Good,Medium,High,Manufacturing,Embedded Engineer,Hybrid,Embedded Eng.
+"Python, Java","AI, ML",AI Engineering,3.99,3,3,Excellent,High,High,Technology,Data Scientist,Remote,Data Scientist
+"Python, Julia","AI, Optimization",AI Engineering,3.66,4,1,Excellent,Medium,High,Research,AI Researcher,Hybrid,Researcher
+"SQL, Python",Data Analysis,Data Science,3.97,5,0,Good,High,Medium,Technology,Data Analyst,Remote,Data Analyst
+"Python, Java","AI, ML",AI Engineering,3.58,5,1,Excellent,Medium,Medium,Technology,Data Scientist,Remote,Data Scientist
+"C++, Python","Robotics, IoT",Robotics,3.07,1,1,Excellent,High,Medium,Manufacturing,Robotics Engineer,Hybrid,Robotics Eng.
+"PHP, JavaScript",Full Stack Dev,Software Engineering,3.25,5,0,Good,Medium,High,Technology,Full Stack Dev,On-site,Full Stack Dev
+"PHP, JavaScript",Full Stack Dev,Software Engineering,3.57,3,2,Good,Medium,High,Technology,Full Stack Dev,On-site,Full Stack Dev
+"SQL, Python",Data Analysis,Data Science,3.27,2,2,Good,High,High,Technology,Data Analyst,Remote,Data Analyst
+"JavaScript, Python",Web Development,Software Engineering,3.01,5,0,Good,Medium,Medium,Technology,Frontend Developer,On-site,Web Developer
+"Python, Julia","AI, Optimization",AI Engineering,3.27,3,0,Excellent,Medium,High,Research,AI Researcher,Hybrid,Researcher
+"Java, C#",Software Development,Software Engineering,3.16,5,2,Good,Medium,High,Finance,Backend Developer,On-site,Software Eng.
+"JavaScript, Python",Web Development,Software Engineering,3.94,2,2,Good,Medium,Medium,Technology,Frontend Developer,On-site,Web Developer
+"Python, Julia","AI, Optimization",AI Engineering,3.16,3,1,Excellent,High,Medium,Research,AI Researcher,Hybrid,Researcher
+"Java, C#",Software Development,Software Engineering,3.51,3,0,Good,Medium,High,Finance,Backend Developer,On-site,Software Eng.
+"Java, C#",Software Development,Software Engineering,3.04,3,1,Good,High,Medium,Finance,Backend Developer,On-site,Software Eng.
+"C, C++",Embedded Systems,Electronics Eng.,3.55,4,0,Good,Medium,Medium,Manufacturing,Embedded Engineer,Hybrid,Embedded Eng.
+"C++, Python","Robotics, IoT",Robotics,3.55,3,1,Excellent,High,Medium,Manufacturing,Robotics Engineer,Hybrid,Robotics Eng.
+"Python, Java","AI, ML",AI Engineering,3.31,1,2,Excellent,Medium,Medium,Technology,Data Scientist,Remote,Data Scientist
+"JavaScript, Python",Web Development,Software Engineering,3.35,5,3,Good,Medium,Medium,Technology,Frontend Developer,On-site,Web Developer
+"C++, Python","Robotics, IoT",Robotics,3.98,2,3,Excellent,Medium,Medium,Manufacturing,Robotics Engineer,Hybrid,Robotics Eng.
+"Python, R","ML, NLP",AI Engineering,3.78,4,1,Excellent,High,Medium,Healthcare,ML Engineer,Remote,ML Engineer
+"JavaScript, Python",Web Development,Software Engineering,3.38,1,3,Good,Medium,Medium,Technology,Frontend Developer,On-site,Web Developer
+"C, C++",Embedded Systems,Electronics Eng.,3.35,2,1,Good,Medium,Medium,Manufacturing,Embedded Engineer,Hybrid,Embedded Eng.
+"HTML, CSS, JS",Web Development,Software Engineering,3.33,1,2,Good,High,High,Technology,UI/UX Designer,On-site,Web Designer
+"Python, Julia","AI, Optimization",AI Engineering,3.33,1,0,Excellent,High,Medium,Research,AI Researcher,Hybrid,Researcher
+"PHP, JavaScript",Full Stack Dev,Software Engineering,3.96,3,0,Good,Medium,High,Technology,Full Stack Dev,On-site,Full Stack Dev
+"Python, R","ML, NLP",AI Engineering,3.73,3,3,Excellent,Medium,High,Healthcare,ML Engineer,Remote,ML Engineer
+"PHP, JavaScript",Full Stack Dev,Software Engineering,3.19,1,3,Good,Medium,Medium,Technology,Full Stack Dev,On-site,Full Stack Dev
+"Python, R","ML, NLP",AI Engineering,3.43,6,2,Excellent,High,Medium,Healthcare,ML Engineer,Remote,ML Engineer
+"Java, C#",Software Development,Software Engineering,3.51,6,3,Good,High,High,Finance,Backend Developer,On-site,Software Eng.
+"Java, C#",Software Development,Software Engineering,3.55,2,3,Good,High,Medium,Finance,Backend Developer,On-site,Software Eng.
+"PHP, JavaScript",Full Stack Dev,Software Engineering,3.57,4,0,Good,High,High,Technology,Full Stack Dev,On-site,Full Stack Dev
+"SQL, Python",Data Analysis,Data Science,3.43,5,2,Good,High,High,Technology,Data Analyst,Remote,Data Analyst
+"C, C++",Embedded Systems,Electronics Eng.,3.68,5,3,Good,Medium,Medium,Manufacturing,Embedded Engineer,Hybrid,Embedded Eng.
+"Java, C#",Software Development,Software Engineering,3.52,6,2,Good,Medium,Medium,Finance,Backend Developer,On-site,Software Eng.
+"Java, C#",Software Development,Software Engineering,3.22,2,1,Good,Medium,Medium,Finance,Backend Developer,On-site,Software Eng.
+"SQL, Python",Data Analysis,Data Science,3.98,5,0,Good,High,High,Technology,Data Analyst,Remote,Data Analyst
+"PHP, JavaScript",Full Stack Dev,Software Engineering,3.19,6,3,Good,High,High,Technology,Full Stack Dev,On-site,Full Stack Dev
+"SQL, Python",Data Analysis,Data Science,3.15,6,0,Good,Medium,High,Technology,Data Analyst,Remote,Data Analyst
+"SQL, Python",Data Analysis,Data Science,3.18,6,3,Good,Medium,Medium,Technology,Data Analyst,Remote,Data Analyst
+"JavaScript, Python",Web Development,Software Engineering,3.46,4,2,Good,High,High,Technology,Frontend Developer,On-site,Web Developer
+"Python, Julia","AI, Optimization",AI Engineering,3.45,2,3,Excellent,High,High,Research,AI Researcher,Hybrid,Researcher
+"SQL, Python",Data Analysis,Data Science,3.84,3,3,Good,Medium,High,Technology,Data Analyst,Remote,Data Analyst
+"C, C++",Embedded Systems,Electronics Eng.,3.08,3,1,Good,High,High,Manufacturing,Embedded Engineer,Hybrid,Embedded Eng.
+"Python, R","ML, NLP",AI Engineering,3.89,1,1,Excellent,Medium,Medium,Healthcare,ML Engineer,Remote,ML Engineer
+"HTML, CSS, JS",Web Development,Software Engineering,3.69,6,1,Good,Medium,High,Technology,UI/UX Designer,On-site,Web Designer
+"HTML, CSS, JS",Web Development,Software Engineering,3.33,4,3,Good,Medium,Medium,Technology,UI/UX Designer,On-site,Web Designer
+"HTML, CSS, JS",Web Development,Software Engineering,3.39,5,0,Good,High,High,Technology,UI/UX Designer,On-site,Web Designer
+"Python, Java","AI, ML",AI Engineering,3.94,3,3,Excellent,High,Medium,Technology,Data Scientist,Remote,Data Scientist
+"C, C++",Embedded Systems,Electronics Eng.,3.22,4,3,Good,Medium,High,Manufacturing,Embedded Engineer,Hybrid,Embedded Eng.
+"Python, R","ML, NLP",AI Engineering,3.67,4,1,Excellent,High,Medium,Healthcare,ML Engineer,Remote,ML Engineer
+"PHP, JavaScript",Full Stack Dev,Software Engineering,3.53,4,0,Good,Medium,High,Technology,Full Stack Dev,On-site,Full Stack Dev
+"C++, Python","Robotics, IoT",Robotics,3.87,2,0,Excellent,High,High,Manufacturing,Robotics Engineer,Hybrid,Robotics Eng.
+"Python, R","ML, NLP",AI Engineering,3.21,3,2,Excellent,High,High,Healthcare,ML Engineer,Remote,ML Engineer
+"HTML, CSS, JS",Web Development,Software Engineering,3.25,1,3,Good,Medium,Medium,Technology,UI/UX Designer,On-site,Web Designer
+"Python, R","ML, NLP",AI Engineering,3.22,1,0,Excellent,Medium,Medium,Healthcare,ML Engineer,Remote,ML Engineer
+"SQL, Python",Data Analysis,Data Science,3.84,5,1,Good,Medium,Medium,Technology,Data Analyst,Remote,Data Analyst
+"C, C++",Embedded Systems,Electronics Eng.,3.67,5,1,Good,High,High,Manufacturing,Embedded Engineer,Hybrid,Embedded Eng.
+"Python, R","ML, NLP",AI Engineering,3.17,5,0,Excellent,Medium,High,Healthcare,ML Engineer,Remote,ML Engineer
+"JavaScript, Python",Web Development,Software Engineering,3.58,3,3,Good,High,Medium,Technology,Frontend Developer,On-site,Web Developer
+"JavaScript, Python",Web Development,Software Engineering,3.59,6,1,Good,Medium,High,Technology,Frontend Developer,On-site,Web Developer
+"PHP, JavaScript",Full Stack Dev,Software Engineering,3.81,5,0,Good,High,High,Technology,Full Stack Dev,On-site,Full Stack Dev
+"Python, R","ML, NLP",AI Engineering,3.07,6,2,Excellent,Medium,High,Healthcare,ML Engineer,Remote,ML Engineer
+"C, C++",Embedded Systems,Electronics Eng.,3.11,3,3,Good,Medium,High,Manufacturing,Embedded Engineer,Hybrid,Embedded Eng.
+"C++, Python","Robotics, IoT",Robotics,3.73,6,2,Excellent,High,High,Manufacturing,Robotics Engineer,Hybrid,Robotics Eng.
+"HTML, CSS, JS",Web Development,Software Engineering,3.83,5,2,Good,High,Medium,Technology,UI/UX Designer,On-site,Web Designer
+"JavaScript, Python",Web Development,Software Engineering,3.28,4,1,Good,High,High,Technology,Frontend Developer,On-site,Web Developer
+"Python, R","ML, NLP",AI Engineering,3.03,3,1,Excellent,High,Medium,Healthcare,ML Engineer,Remote,ML Engineer
+"Python, R","ML, NLP",AI Engineering,3.8,3,2,Excellent,High,Medium,Healthcare,ML Engineer,Remote,ML Engineer
+"Python, Julia","AI, Optimization",AI Engineering,3.95,1,1,Excellent,High,High,Research,AI Researcher,Hybrid,Researcher
+"Python, Julia","AI, Optimization",AI Engineering,3.76,6,3,Excellent,High,High,Research,AI Researcher,Hybrid,Researcher
+"Python, Java","AI, ML",AI Engineering,3.09,2,3,Excellent,Medium,High,Technology,Data Scientist,Remote,Data Scientist
+"PHP, JavaScript",Full Stack Dev,Software Engineering,3.37,5,2,Good,High,High,Technology,Full Stack Dev,On-site,Full Stack Dev
+"Python, R","ML, NLP",AI Engineering,3.7,3,2,Excellent,High,Medium,Healthcare,ML Engineer,Remote,ML Engineer
+"JavaScript, Python",Web Development,Software Engineering,3.72,3,0,Good,Medium,Medium,Technology,Frontend Developer,On-site,Web Developer
+"SQL, Python",Data Analysis,Data Science,3.74,3,2,Good,Medium,Medium,Technology,Data Analyst,Remote,Data Analyst
+"Java, C#",Software Development,Software Engineering,3.23,2,2,Good,Medium,Medium,Finance,Backend Developer,On-site,Software Eng.
+"Java, C#",Software Development,Software Engineering,3.05,1,2,Good,Medium,High,Finance,Backend Developer,On-site,Software Eng.
+"JavaScript, Python",Web Development,Software Engineering,3.87,5,2,Good,High,High,Technology,Frontend Developer,On-site,Web Developer
+"C, C++",Embedded Systems,Electronics Eng.,3.34,1,2,Good,High,Medium,Manufacturing,Embedded Engineer,Hybrid,Embedded Eng.
+"JavaScript, Python",Web Development,Software Engineering,3.4,1,0,Good,Medium,Medium,Technology,Frontend Developer,On-site,Web Developer
+"PHP, JavaScript",Full Stack Dev,Software Engineering,3.95,1,1,Good,Medium,High,Technology,Full Stack Dev,On-site,Full Stack Dev
+"PHP, JavaScript",Full Stack Dev,Software Engineering,3.6,5,1,Good,High,High,Technology,Full Stack Dev,On-site,Full Stack Dev
+"C, C++",Embedded Systems,Electronics Eng.,3.3,5,3,Good,High,Medium,Manufacturing,Embedded Engineer,Hybrid,Embedded Eng.
+"PHP, JavaScript",Full Stack Dev,Software Engineering,3.96,1,1,Good,Medium,High,Technology,Full Stack Dev,On-site,Full Stack Dev
+"JavaScript, Python",Web Development,Software Engineering,3.16,2,0,Good,Medium,Medium,Technology,Frontend Developer,On-site,Web Developer
+"HTML, CSS, JS",Web Development,Software Engineering,3.45,5,3,Good,High,Medium,Technology,UI/UX Designer,On-site,Web Designer
+"SQL, Python",Data Analysis,Data Science,3.29,3,3,Good,Medium,Medium,Technology,Data Analyst,Remote,Data Analyst
+"Java, C#",Software Development,Software Engineering,3.79,6,1,Good,High,Medium,Finance,Backend Developer,On-site,Software Eng.
+"Python, Julia","AI, Optimization",AI Engineering,3.22,2,2,Excellent,Medium,Medium,Research,AI Researcher,Hybrid,Researcher
+"Python, Java","AI, ML",AI Engineering,3.17,3,2,Excellent,High,Medium,Technology,Data Scientist,Remote,Data Scientist
+"C, C++",Embedded Systems,Electronics Eng.,3.69,6,3,Good,High,High,Manufacturing,Embedded Engineer,Hybrid,Embedded Eng.
+"C, C++",Embedded Systems,Electronics Eng.,3.08,1,3,Good,High,High,Manufacturing,Embedded Engineer,Hybrid,Embedded Eng.
+"Python, Java","AI, ML",AI Engineering,3.09,6,0,Excellent,High,Medium,Technology,Data Scientist,Remote,Data Scientist
+"C++, Python","Robotics, IoT",Robotics,3.47,6,3,Excellent,High,Medium,Manufacturing,Robotics Engineer,Hybrid,Robotics Eng.
+"PHP, JavaScript",Full Stack Dev,Software Engineering,3.44,4,0,Good,High,High,Technology,Full Stack Dev,On-site,Full Stack Dev
+"HTML, CSS, JS",Web Development,Software Engineering,3.33,6,0,Good,Medium,High,Technology,UI/UX Designer,On-site,Web Designer
+"HTML, CSS, JS",Web Development,Software Engineering,3.69,3,3,Good,Medium,High,Technology,UI/UX Designer,On-site,Web Designer
+"JavaScript, Python",Web Development,Software Engineering,3.31,3,0,Good,High,Medium,Technology,Frontend Developer,On-site,Web Developer
+"Python, Julia","AI, Optimization",AI Engineering,3.46,1,1,Excellent,High,High,Research,AI Researcher,Hybrid,Researcher
+"C, C++",Embedded Systems,Electronics Eng.,3.76,2,2,Good,Medium,High,Manufacturing,Embedded Engineer,Hybrid,Embedded Eng.
+"C, C++",Embedded Systems,Electronics Eng.,3.88,4,0,Good,Medium,Medium,Manufacturing,Embedded Engineer,Hybrid,Embedded Eng.
+"C++, Python","Robotics, IoT",Robotics,3.31,1,3,Excellent,Medium,Medium,Manufacturing,Robotics Engineer,Hybrid,Robotics Eng.
+"JavaScript, Python",Web Development,Software Engineering,3.46,1,1,Good,High,High,Technology,Frontend Developer,On-site,Web Developer
+"Python, Julia","AI, Optimization",AI Engineering,3.71,4,3,Excellent,High,Medium,Research,AI Researcher,Hybrid,Researcher
+"C, C++",Embedded Systems,Electronics Eng.,3.55,4,1,Good,Medium,Medium,Manufacturing,Embedded Engineer,Hybrid,Embedded Eng.
+"Java, C#",Software Development,Software Engineering,3.77,4,2,Good,High,Medium,Finance,Backend Developer,On-site,Software Eng.
+"Java, C#",Software Development,Software Engineering,3.73,5,3,Good,Medium,High,Finance,Backend Developer,On-site,Software Eng.
+"Python, Julia","AI, Optimization",AI Engineering,3.48,3,3,Excellent,High,High,Research,AI Researcher,Hybrid,Researcher
+"SQL, Python",Data Analysis,Data Science,3.98,2,3,Good,Medium,High,Technology,Data Analyst,Remote,Data Analyst
+"Python, Java","AI, ML",AI Engineering,3.32,4,3,Excellent,High,Medium,Technology,Data Scientist,Remote,Data Scientist
+"C, C++",Embedded Systems,Electronics Eng.,3.96,2,2,Good,Medium,High,Manufacturing,Embedded Engineer,Hybrid,Embedded Eng.
+"JavaScript, Python",Web Development,Software Engineering,3.53,4,0,Good,Medium,High,Technology,Frontend Developer,On-site,Web Developer
+"C++, Python","Robotics, IoT",Robotics,3.07,3,2,Excellent,High,Medium,Manufacturing,Robotics Engineer,Hybrid,Robotics Eng.
+"Python, R","ML, NLP",AI Engineering,3.85,5,3,Excellent,High,High,Healthcare,ML Engineer,Remote,ML Engineer
+"Python, Julia","AI, Optimization",AI Engineering,3.04,1,1,Excellent,High,Medium,Research,AI Researcher,Hybrid,Researcher
+"JavaScript, Python",Web Development,Software Engineering,3.43,1,0,Good,High,Medium,Technology,Frontend Developer,On-site,Web Developer
+"Java, C#",Software Development,Software Engineering,3.9,1,2,Good,Medium,High,Finance,Backend Developer,On-site,Software Eng.
+"Python, R","ML, NLP",AI Engineering,3.37,2,1,Excellent,High,Medium,Healthcare,ML Engineer,Remote,ML Engineer
+"C++, Python","Robotics, IoT",Robotics,3.18,5,3,Excellent,Medium,High,Manufacturing,Robotics Engineer,Hybrid,Robotics Eng.
+"PHP, JavaScript",Full Stack Dev,Software Engineering,3.14,4,2,Good,High,High,Technology,Full Stack Dev,On-site,Full Stack Dev
+"Python, Java","AI, ML",AI Engineering,3.9,4,2,Excellent,Medium,Medium,Technology,Data Scientist,Remote,Data Scientist
+"C, C++",Embedded Systems,Electronics Eng.,3.95,5,2,Good,High,High,Manufacturing,Embedded Engineer,Hybrid,Embedded Eng.
+"C, C++",Embedded Systems,Electronics Eng.,3.85,2,3,Good,High,Medium,Manufacturing,Embedded Engineer,Hybrid,Embedded Eng.
+"SQL, Python",Data Analysis,Data Science,3.38,3,2,Good,High,Medium,Technology,Data Analyst,Remote,Data Analyst
+"HTML, CSS, JS",Web Development,Software Engineering,3.27,5,0,Good,High,High,Technology,UI/UX Designer,On-site,Web Designer
+"SQL, Python",Data Analysis,Data Science,3.61,3,1,Good,Medium,High,Technology,Data Analyst,Remote,Data Analyst
+"C++, Python","Robotics, IoT",Robotics,3.63,6,0,Excellent,High,High,Manufacturing,Robotics Engineer,Hybrid,Robotics Eng.
+"Python, Java","AI, ML",AI Engineering,3.58,6,1,Excellent,Medium,High,Technology,Data Scientist,Remote,Data Scientist
+"Python, R","ML, NLP",AI Engineering,3.75,2,1,Excellent,Medium,High,Healthcare,ML Engineer,Remote,ML Engineer
+"Python, Julia","AI, Optimization",AI Engineering,3.5,3,1,Excellent,High,High,Research,AI Researcher,Hybrid,Researcher
+"Java, C#",Software Development,Software Engineering,3.75,3,0,Good,High,Medium,Finance,Backend Developer,On-site,Software Eng.
+"C++, Python","Robotics, IoT",Robotics,3.75,2,3,Excellent,High,Medium,Manufacturing,Robotics Engineer,Hybrid,Robotics Eng.
+"HTML, CSS, JS",Web Development,Software Engineering,3.01,5,0,Good,High,High,Technology,UI/UX Designer,On-site,Web Designer
+"Java, C#",Software Development,Software Engineering,3.58,6,2,Good,Medium,Medium,Finance,Backend Developer,On-site,Software Eng.
+"C, C++",Embedded Systems,Electronics Eng.,3.03,5,2,Good,Medium,Medium,Manufacturing,Embedded Engineer,Hybrid,Embedded Eng.
+"C, C++",Embedded Systems,Electronics Eng.,3.91,3,3,Good,Medium,Medium,Manufacturing,Embedded Engineer,Hybrid,Embedded Eng.
+"Python, Java","AI, ML",AI Engineering,3.95,3,3,Excellent,Medium,Medium,Technology,Data Scientist,Remote,Data Scientist
+"SQL, Python",Data Analysis,Data Science,3.89,2,3,Good,High,High,Technology,Data Analyst,Remote,Data Analyst
+"Python, Julia","AI, Optimization",AI Engineering,3.42,6,1,Excellent,High,Medium,Research,AI Researcher,Hybrid,Researcher
+"C, C++",Embedded Systems,Electronics Eng.,3.62,3,0,Good,High,Medium,Manufacturing,Embedded Engineer,Hybrid,Embedded Eng.
+"C, C++",Embedded Systems,Electronics Eng.,3.44,2,2,Good,Medium,High,Manufacturing,Embedded Engineer,Hybrid,Embedded Eng.
+"Python, Julia","AI, Optimization",AI Engineering,3.9,6,2,Excellent,Medium,High,Research,AI Researcher,Hybrid,Researcher
+"Java, C#",Software Development,Software Engineering,3.19,1,3,Good,Medium,Medium,Finance,Backend Developer,On-site,Software Eng.
+"PHP, JavaScript",Full Stack Dev,Software Engineering,3.97,1,2,Good,Medium,Medium,Technology,Full Stack Dev,On-site,Full Stack Dev
+"PHP, JavaScript",Full Stack Dev,Software Engineering,3.21,5,1,Good,Medium,Medium,Technology,Full Stack Dev,On-site,Full Stack Dev
+"Python, R","ML, NLP",AI Engineering,3.77,5,0,Excellent,High,Medium,Healthcare,ML Engineer,Remote,ML Engineer
+"C++, Python","Robotics, IoT",Robotics,3.54,2,0,Excellent,Medium,Medium,Manufacturing,Robotics Engineer,Hybrid,Robotics Eng.
+"Python, Java","AI, ML",AI Engineering,3.36,2,2,Excellent,Medium,Medium,Technology,Data Scientist,Remote,Data Scientist
+"Java, C#",Software Development,Software Engineering,3.05,6,3,Good,Medium,Medium,Finance,Backend Developer,On-site,Software Eng.
+"C, C++",Embedded Systems,Electronics Eng.,3.45,3,0,Good,High,Medium,Manufacturing,Embedded Engineer,Hybrid,Embedded Eng.
+"PHP, JavaScript",Full Stack Dev,Software Engineering,3.04,6,2,Good,High,Medium,Technology,Full Stack Dev,On-site,Full Stack Dev
+"Python, Java","AI, ML",AI Engineering,4.0,4,3,Excellent,Medium,High,Technology,Data Scientist,Remote,Data Scientist
+"C, C++",Embedded Systems,Electronics Eng.,3.07,1,2,Good,Medium,Medium,Manufacturing,Embedded Engineer,Hybrid,Embedded Eng.
+"C++, Python","Robotics, IoT",Robotics,3.28,6,2,Excellent,High,High,Manufacturing,Robotics Engineer,Hybrid,Robotics Eng.
+"C, C++",Embedded Systems,Electronics Eng.,3.51,4,0,Good,Medium,Medium,Manufacturing,Embedded Engineer,Hybrid,Embedded Eng.
+"HTML, CSS, JS",Web Development,Software Engineering,3.45,2,3,Good,High,High,Technology,UI/UX Designer,On-site,Web Designer
+"HTML, CSS, JS",Web Development,Software Engineering,3.42,1,2,Good,High,High,Technology,UI/UX Designer,On-site,Web Designer
+"Java, C#",Software Development,Software Engineering,3.37,2,3,Good,Medium,Medium,Finance,Backend Developer,On-site,Software Eng.
+"JavaScript, Python",Web Development,Software Engineering,3.09,1,2,Good,Medium,Medium,Technology,Frontend Developer,On-site,Web Developer
+"PHP, JavaScript",Full Stack Dev,Software Engineering,3.96,5,2,Good,Medium,High,Technology,Full Stack Dev,On-site,Full Stack Dev
+"Python, R","ML, NLP",AI Engineering,3.87,4,0,Excellent,High,High,Healthcare,ML Engineer,Remote,ML Engineer
+"Python, R","ML, NLP",AI Engineering,3.1,5,1,Excellent,Medium,High,Healthcare,ML Engineer,Remote,ML Engineer
+"SQL, Python",Data Analysis,Data Science,3.85,3,2,Good,Medium,High,Technology,Data Analyst,Remote,Data Analyst
+"PHP, JavaScript",Full Stack Dev,Software Engineering,3.23,4,0,Good,High,Medium,Technology,Full Stack Dev,On-site,Full Stack Dev
+"C++, Python","Robotics, IoT",Robotics,3.27,3,2,Excellent,High,Medium,Manufacturing,Robotics Engineer,Hybrid,Robotics Eng.
+"C++, Python","Robotics, IoT",Robotics,3.87,5,3,Excellent,Medium,Medium,Manufacturing,Robotics Engineer,Hybrid,Robotics Eng.
+"Python, Java","AI, ML",AI Engineering,3.09,5,1,Excellent,High,High,Technology,Data Scientist,Remote,Data Scientist
+"C, C++",Embedded Systems,Electronics Eng.,3.34,3,2,Good,High,Medium,Manufacturing,Embedded Engineer,Hybrid,Embedded Eng.
+"Python, Java","AI, ML",AI Engineering,3.16,5,0,Excellent,Medium,High,Technology,Data Scientist,Remote,Data Scientist
+"C, C++",Embedded Systems,Electronics Eng.,3.66,4,3,Good,High,High,Manufacturing,Embedded Engineer,Hybrid,Embedded Eng.
+"SQL, Python",Data Analysis,Data Science,3.75,1,2,Good,High,Medium,Technology,Data Analyst,Remote,Data Analyst
+"Java, C#",Software Development,Software Engineering,3.68,5,3,Good,High,Medium,Finance,Backend Developer,On-site,Software Eng.
+"SQL, Python",Data Analysis,Data Science,3.4,5,0,Good,Medium,Medium,Technology,Data Analyst,Remote,Data Analyst
+"Java, C#",Software Development,Software Engineering,3.95,2,2,Good,High,High,Finance,Backend Developer,On-site,Software Eng.
+"JavaScript, Python",Web Development,Software Engineering,3.01,6,3,Good,Medium,Medium,Technology,Frontend Developer,On-site,Web Developer
+"HTML, CSS, JS",Web Development,Software Engineering,3.53,2,2,Good,Medium,High,Technology,UI/UX Designer,On-site,Web Designer
+"Python, Java","AI, ML",AI Engineering,3.44,4,0,Excellent,High,High,Technology,Data Scientist,Remote,Data Scientist
+"PHP, JavaScript",Full Stack Dev,Software Engineering,3.4,6,3,Good,High,Medium,Technology,Full Stack Dev,On-site,Full Stack Dev
+"HTML, CSS, JS",Web Development,Software Engineering,3.02,3,1,Good,High,High,Technology,UI/UX Designer,On-site,Web Designer
+"JavaScript, Python",Web Development,Software Engineering,3.44,1,1,Good,High,High,Technology,Frontend Developer,On-site,Web Developer
+"Python, Julia","AI, Optimization",AI Engineering,3.08,3,2,Excellent,Medium,High,Research,AI Researcher,Hybrid,Researcher
+"C++, Python","Robotics, IoT",Robotics,3.08,6,0,Excellent,Medium,High,Manufacturing,Robotics Engineer,Hybrid,Robotics Eng.
+"Python, R","ML, NLP",AI Engineering,3.73,6,1,Excellent,Medium,Medium,Healthcare,ML Engineer,Remote,ML Engineer
+"C++, Python","Robotics, IoT",Robotics,3.26,2,1,Excellent,Medium,Medium,Manufacturing,Robotics Engineer,Hybrid,Robotics Eng.
+"C, C++",Embedded Systems,Electronics Eng.,3.46,5,3,Good,High,High,Manufacturing,Embedded Engineer,Hybrid,Embedded Eng.
+"C++, Python","Robotics, IoT",Robotics,3.44,4,3,Excellent,High,High,Manufacturing,Robotics Engineer,Hybrid,Robotics Eng.
+"PHP, JavaScript",Full Stack Dev,Software Engineering,3.06,5,0,Good,High,High,Technology,Full Stack Dev,On-site,Full Stack Dev
+"C, C++",Embedded Systems,Electronics Eng.,3.04,3,2,Good,Medium,Medium,Manufacturing,Embedded Engineer,Hybrid,Embedded Eng.
+"PHP, JavaScript",Full Stack Dev,Software Engineering,3.59,4,3,Good,Medium,High,Technology,Full Stack Dev,On-site,Full Stack Dev
+"PHP, JavaScript",Full Stack Dev,Software Engineering,3.65,3,3,Good,Medium,Medium,Technology,Full Stack Dev,On-site,Full Stack Dev
+"C, C++",Embedded Systems,Electronics Eng.,3.1,3,0,Good,Medium,Medium,Manufacturing,Embedded Engineer,Hybrid,Embedded Eng.
+"SQL, Python",Data Analysis,Data Science,3.71,4,1,Good,High,High,Technology,Data Analyst,Remote,Data Analyst
+"Java, C#",Software Development,Software Engineering,3.39,3,0,Good,High,Medium,Finance,Backend Developer,On-site,Software Eng.
+"Python, R","ML, NLP",AI Engineering,3.09,6,3,Excellent,High,High,Healthcare,ML Engineer,Remote,ML Engineer
+"PHP, JavaScript",Full Stack Dev,Software Engineering,3.87,3,0,Good,Medium,High,Technology,Full Stack Dev,On-site,Full Stack Dev
+"Java, C#",Software Development,Software Engineering,3.97,6,3,Good,Medium,Medium,Finance,Backend Developer,On-site,Software Eng.
+"Java, C#",Software Development,Software Engineering,3.56,6,2,Good,Medium,Medium,Finance,Backend Developer,On-site,Software Eng.
+"HTML, CSS, JS",Web Development,Software Engineering,3.51,1,2,Good,High,Medium,Technology,UI/UX Designer,On-site,Web Designer
+"SQL, Python",Data Analysis,Data Science,3.34,4,1,Good,Medium,Medium,Technology,Data Analyst,Remote,Data Analyst
+"C++, Python","Robotics, IoT",Robotics,3.08,1,0,Excellent,High,Medium,Manufacturing,Robotics Engineer,Hybrid,Robotics Eng.
+"PHP, JavaScript",Full Stack Dev,Software Engineering,3.38,2,1,Good,Medium,High,Technology,Full Stack Dev,On-site,Full Stack Dev
+"Python, Java","AI, ML",AI Engineering,3.41,6,1,Excellent,High,High,Technology,Data Scientist,Remote,Data Scientist
+"C, C++",Embedded Systems,Electronics Eng.,3.23,2,2,Good,High,Medium,Manufacturing,Embedded Engineer,Hybrid,Embedded Eng.
+"Python, R","ML, NLP",AI Engineering,3.68,5,3,Excellent,High,High,Healthcare,ML Engineer,Remote,ML Engineer
+"HTML, CSS, JS",Web Development,Software Engineering,3.5,4,1,Good,Medium,Medium,Technology,UI/UX Designer,On-site,Web Designer
+"Java, C#",Software Development,Software Engineering,3.05,4,2,Good,Medium,Medium,Finance,Backend Developer,On-site,Software Eng.
+"Java, C#",Software Development,Software Engineering,3.08,2,2,Good,High,Medium,Finance,Backend Developer,On-site,Software Eng.
+"HTML, CSS, JS",Web Development,Software Engineering,3.09,2,3,Good,High,Medium,Technology,UI/UX Designer,On-site,Web Designer
+"HTML, CSS, JS",Web Development,Software Engineering,3.05,5,2,Good,Medium,High,Technology,UI/UX Designer,On-site,Web Designer
+"JavaScript, Python",Web Development,Software Engineering,3.37,1,2,Good,Medium,High,Technology,Frontend Developer,On-site,Web Developer
+"C++, Python","Robotics, IoT",Robotics,3.14,3,3,Excellent,Medium,High,Manufacturing,Robotics Engineer,Hybrid,Robotics Eng.
+"C, C++",Embedded Systems,Electronics Eng.,3.62,1,0,Good,High,Medium,Manufacturing,Embedded Engineer,Hybrid,Embedded Eng.
+"C++, Python","Robotics, IoT",Robotics,3.55,6,3,Excellent,Medium,High,Manufacturing,Robotics Engineer,Hybrid,Robotics Eng.
+"SQL, Python",Data Analysis,Data Science,3.3,1,1,Good,High,High,Technology,Data Analyst,Remote,Data Analyst
+"JavaScript, Python",Web Development,Software Engineering,3.11,4,0,Good,Medium,Medium,Technology,Frontend Developer,On-site,Web Developer
+"Java, C#",Software Development,Software Engineering,3.43,5,2,Good,Medium,High,Finance,Backend Developer,On-site,Software Eng.
+"C++, Python","Robotics, IoT",Robotics,3.66,1,2,Excellent,Medium,Medium,Manufacturing,Robotics Engineer,Hybrid,Robotics Eng.
+"HTML, CSS, JS",Web Development,Software Engineering,3.87,1,3,Good,High,High,Technology,UI/UX Designer,On-site,Web Designer
+"Python, Java","AI, ML",AI Engineering,3.36,1,2,Excellent,Medium,Medium,Technology,Data Scientist,Remote,Data Scientist
+"PHP, JavaScript",Full Stack Dev,Software Engineering,3.74,3,1,Good,Medium,High,Technology,Full Stack Dev,On-site,Full Stack Dev
+"Python, Julia","AI, Optimization",AI Engineering,3.34,6,1,Excellent,High,High,Research,AI Researcher,Hybrid,Researcher
+"C++, Python","Robotics, IoT",Robotics,3.81,1,3,Excellent,Medium,High,Manufacturing,Robotics Engineer,Hybrid,Robotics Eng.
+"SQL, Python",Data Analysis,Data Science,3.04,2,0,Good,High,High,Technology,Data Analyst,Remote,Data Analyst
+"Python, Julia","AI, Optimization",AI Engineering,3.4,5,3,Excellent,High,Medium,Research,AI Researcher,Hybrid,Researcher
+"SQL, Python",Data Analysis,Data Science,3.29,1,2,Good,High,Medium,Technology,Data Analyst,Remote,Data Analyst
+"Python, R","ML, NLP",AI Engineering,3.44,4,3,Excellent,High,High,Healthcare,ML Engineer,Remote,ML Engineer
+"C++, Python","Robotics, IoT",Robotics,3.5,4,2,Excellent,High,Medium,Manufacturing,Robotics Engineer,Hybrid,Robotics Eng.
+"HTML, CSS, JS",Web Development,Software Engineering,3.08,5,1,Good,High,High,Technology,UI/UX Designer,On-site,Web Designer
+"JavaScript, Python",Web Development,Software Engineering,3.08,6,2,Good,High,High,Technology,Frontend Developer,On-site,Web Developer
+"PHP, JavaScript",Full Stack Dev,Software Engineering,3.72,2,3,Good,High,High,Technology,Full Stack Dev,On-site,Full Stack Dev
+"Python, Java","AI, ML",AI Engineering,3.73,3,3,Excellent,High,Medium,Technology,Data Scientist,Remote,Data Scientist
+"JavaScript, Python",Web Development,Software Engineering,3.67,4,2,Good,Medium,Medium,Technology,Frontend Developer,On-site,Web Developer
+"C++, Python","Robotics, IoT",Robotics,3.85,6,3,Excellent,Medium,Medium,Manufacturing,Robotics Engineer,Hybrid,Robotics Eng.
+"JavaScript, Python",Web Development,Software Engineering,3.24,6,2,Good,High,High,Technology,Frontend Developer,On-site,Web Developer
+"PHP, JavaScript",Full Stack Dev,Software Engineering,3.03,2,3,Good,High,High,Technology,Full Stack Dev,On-site,Full Stack Dev
+"C, C++",Embedded Systems,Electronics Eng.,3.76,5,1,Good,High,High,Manufacturing,Embedded Engineer,Hybrid,Embedded Eng.
+"Python, R","ML, NLP",AI Engineering,3.65,2,0,Excellent,Medium,Medium,Healthcare,ML Engineer,Remote,ML Engineer
+"C, C++",Embedded Systems,Electronics Eng.,3.52,5,0,Good,High,High,Manufacturing,Embedded Engineer,Hybrid,Embedded Eng.
+"C, C++",Embedded Systems,Electronics Eng.,3.21,5,2,Good,High,Medium,Manufacturing,Embedded Engineer,Hybrid,Embedded Eng.
+"JavaScript, Python",Web Development,Software Engineering,3.14,1,3,Good,Medium,High,Technology,Frontend Developer,On-site,Web Developer
+"JavaScript, Python",Web Development,Software Engineering,3.81,3,2,Good,Medium,High,Technology,Frontend Developer,On-site,Web Developer
+"Java, C#",Software Development,Software Engineering,3.85,6,1,Good,High,Medium,Finance,Backend Developer,On-site,Software Eng.
+"JavaScript, Python",Web Development,Software Engineering,3.99,2,1,Good,High,Medium,Technology,Frontend Developer,On-site,Web Developer
+"Python, R","ML, NLP",AI Engineering,3.55,3,3,Excellent,Medium,Medium,Healthcare,ML Engineer,Remote,ML Engineer
+"JavaScript, Python",Web Development,Software Engineering,3.31,6,3,Good,High,High,Technology,Frontend Developer,On-site,Web Developer
+"PHP, JavaScript",Full Stack Dev,Software Engineering,3.07,3,0,Good,High,High,Technology,Full Stack Dev,On-site,Full Stack Dev
+"Python, Julia","AI, Optimization",AI Engineering,3.34,5,1,Excellent,Medium,High,Research,AI Researcher,Hybrid,Researcher
+"Python, Julia","AI, Optimization",AI Engineering,3.91,1,0,Excellent,Medium,High,Research,AI Researcher,Hybrid,Researcher
+"C++, Python","Robotics, IoT",Robotics,3.16,6,1,Excellent,High,High,Manufacturing,Robotics Engineer,Hybrid,Robotics Eng.
+"JavaScript, Python",Web Development,Software Engineering,3.25,6,2,Good,Medium,High,Technology,Frontend Developer,On-site,Web Developer
+"PHP, JavaScript",Full Stack Dev,Software Engineering,3.53,5,1,Good,Medium,Medium,Technology,Full Stack Dev,On-site,Full Stack Dev
+"PHP, JavaScript",Full Stack Dev,Software Engineering,3.72,5,2,Good,Medium,Medium,Technology,Full Stack Dev,On-site,Full Stack Dev
+"JavaScript, Python",Web Development,Software Engineering,3.05,6,2,Good,Medium,High,Technology,Frontend Developer,On-site,Web Developer
+"PHP, JavaScript",Full Stack Dev,Software Engineering,3.64,4,2,Good,High,High,Technology,Full Stack Dev,On-site,Full Stack Dev
+"SQL, Python",Data Analysis,Data Science,3.8,6,3,Good,High,High,Technology,Data Analyst,Remote,Data Analyst
+"JavaScript, Python",Web Development,Software Engineering,3.69,2,3,Good,High,High,Technology,Frontend Developer,On-site,Web Developer
+"C, C++",Embedded Systems,Electronics Eng.,3.2,5,1,Good,High,High,Manufacturing,Embedded Engineer,Hybrid,Embedded Eng.
+"Python, R","ML, NLP",AI Engineering,3.98,2,2,Excellent,Medium,High,Healthcare,ML Engineer,Remote,ML Engineer
+"SQL, Python",Data Analysis,Data Science,3.47,3,3,Good,Medium,Medium,Technology,Data Analyst,Remote,Data Analyst
+"JavaScript, Python",Web Development,Software Engineering,3.05,4,3,Good,Medium,Medium,Technology,Frontend Developer,On-site,Web Developer
+"Python, R","ML, NLP",AI Engineering,3.93,6,2,Excellent,Medium,Medium,Healthcare,ML Engineer,Remote,ML Engineer
+"C, C++",Embedded Systems,Electronics Eng.,4.0,4,3,Good,High,High,Manufacturing,Embedded Engineer,Hybrid,Embedded Eng.
+"Python, Java","AI, ML",AI Engineering,3.09,4,3,Excellent,Medium,Medium,Technology,Data Scientist,Remote,Data Scientist
+"PHP, JavaScript",Full Stack Dev,Software Engineering,3.35,1,2,Good,High,High,Technology,Full Stack Dev,On-site,Full Stack Dev
+"Java, C#",Software Development,Software Engineering,3.54,1,3,Good,Medium,High,Finance,Backend Developer,On-site,Software Eng.
+"Python, R","ML, NLP",AI Engineering,3.76,3,0,Excellent,High,Medium,Healthcare,ML Engineer,Remote,ML Engineer
+"PHP, JavaScript",Full Stack Dev,Software Engineering,3.56,3,2,Good,Medium,High,Technology,Full Stack Dev,On-site,Full Stack Dev
+"Python, Julia","AI, Optimization",AI Engineering,3.45,5,2,Excellent,Medium,Medium,Research,AI Researcher,Hybrid,Researcher
+"JavaScript, Python",Web Development,Software Engineering,3.39,3,2,Good,Medium,Medium,Technology,Frontend Developer,On-site,Web Developer
+"PHP, JavaScript",Full Stack Dev,Software Engineering,3.51,5,0,Good,Medium,Medium,Technology,Full Stack Dev,On-site,Full Stack Dev
+"C++, Python","Robotics, IoT",Robotics,3.71,4,3,Excellent,Medium,Medium,Manufacturing,Robotics Engineer,Hybrid,Robotics Eng.
+"Python, R","ML, NLP",AI Engineering,3.93,3,1,Excellent,High,High,Healthcare,ML Engineer,Remote,ML Engineer
+"PHP, JavaScript",Full Stack Dev,Software Engineering,3.34,5,3,Good,High,High,Technology,Full Stack Dev,On-site,Full Stack Dev
+"Python, Java","AI, ML",AI Engineering,3.37,6,0,Excellent,High,High,Technology,Data Scientist,Remote,Data Scientist
+"Python, Java","AI, ML",AI Engineering,3.6,3,1,Excellent,Medium,High,Technology,Data Scientist,Remote,Data Scientist
+"C++, Python","Robotics, IoT",Robotics,3.52,6,3,Excellent,Medium,Medium,Manufacturing,Robotics Engineer,Hybrid,Robotics Eng.
+"Python, Java","AI, ML",AI Engineering,3.57,6,0,Excellent,Medium,Medium,Technology,Data Scientist,Remote,Data Scientist
+"C, C++",Embedded Systems,Electronics Eng.,3.31,2,3,Good,Medium,High,Manufacturing,Embedded Engineer,Hybrid,Embedded Eng.
+"Python, Julia","AI, Optimization",AI Engineering,3.77,4,0,Excellent,Medium,Medium,Research,AI Researcher,Hybrid,Researcher
+"Python, Julia","AI, Optimization",AI Engineering,3.33,6,3,Excellent,High,High,Research,AI Researcher,Hybrid,Researcher
+"C++, Python","Robotics, IoT",Robotics,3.46,5,2,Excellent,High,High,Manufacturing,Robotics Engineer,Hybrid,Robotics Eng.
+"PHP, JavaScript",Full Stack Dev,Software Engineering,3.48,2,2,Good,High,Medium,Technology,Full Stack Dev,On-site,Full Stack Dev
+"Java, C#",Software Development,Software Engineering,3.77,6,1,Good,High,High,Finance,Backend Developer,On-site,Software Eng.
+"C, C++",Embedded Systems,Electronics Eng.,3.35,6,2,Good,High,Medium,Manufacturing,Embedded Engineer,Hybrid,Embedded Eng.
+"PHP, JavaScript",Full Stack Dev,Software Engineering,3.68,4,3,Good,High,Medium,Technology,Full Stack Dev,On-site,Full Stack Dev
+"Java, C#",Software Development,Software Engineering,3.04,6,0,Good,High,High,Finance,Backend Developer,On-site,Software Eng.
+"Java, C#",Software Development,Software Engineering,3.75,2,1,Good,High,High,Finance,Backend Developer,On-site,Software Eng.
+"C++, Python","Robotics, IoT",Robotics,3.11,6,1,Excellent,Medium,Medium,Manufacturing,Robotics Engineer,Hybrid,Robotics Eng.
+"Python, Julia","AI, Optimization",AI Engineering,3.23,2,0,Excellent,Medium,High,Research,AI Researcher,Hybrid,Researcher
+"Python, R","ML, NLP",AI Engineering,3.72,1,1,Excellent,Medium,Medium,Healthcare,ML Engineer,Remote,ML Engineer
+"HTML, CSS, JS",Web Development,Software Engineering,3.65,4,3,Good,Medium,High,Technology,UI/UX Designer,On-site,Web Designer
+"Python, R","ML, NLP",AI Engineering,3.29,1,0,Excellent,Medium,Medium,Healthcare,ML Engineer,Remote,ML Engineer
+"C++, Python","Robotics, IoT",Robotics,3.42,2,0,Excellent,High,High,Manufacturing,Robotics Engineer,Hybrid,Robotics Eng.
+"C++, Python","Robotics, IoT",Robotics,3.94,3,0,Excellent,Medium,High,Manufacturing,Robotics Engineer,Hybrid,Robotics Eng.
+"PHP, JavaScript",Full Stack Dev,Software Engineering,3.6,3,2,Good,High,High,Technology,Full Stack Dev,On-site,Full Stack Dev
+"C++, Python","Robotics, IoT",Robotics,3.85,4,2,Excellent,Medium,Medium,Manufacturing,Robotics Engineer,Hybrid,Robotics Eng.
+"Python, R","ML, NLP",AI Engineering,3.16,4,2,Excellent,Medium,Medium,Healthcare,ML Engineer,Remote,ML Engineer
+"Python, R","ML, NLP",AI Engineering,3.79,5,1,Excellent,Medium,High,Healthcare,ML Engineer,Remote,ML Engineer
+"HTML, CSS, JS",Web Development,Software Engineering,3.52,1,3,Good,Medium,Medium,Technology,UI/UX Designer,On-site,Web Designer
+"C++, Python","Robotics, IoT",Robotics,3.48,2,0,Excellent,High,High,Manufacturing,Robotics Engineer,Hybrid,Robotics Eng.
+"SQL, Python",Data Analysis,Data Science,3.45,3,2,Good,High,Medium,Technology,Data Analyst,Remote,Data Analyst
+"Java, C#",Software Development,Software Engineering,3.65,6,1,Good,Medium,Medium,Finance,Backend Developer,On-site,Software Eng.
+"C, C++",Embedded Systems,Electronics Eng.,3.31,4,2,Good,Medium,High,Manufacturing,Embedded Engineer,Hybrid,Embedded Eng.
+"Python, R","ML, NLP",AI Engineering,3.61,2,1,Excellent,High,Medium,Healthcare,ML Engineer,Remote,ML Engineer
+"C, C++",Embedded Systems,Electronics Eng.,3.75,5,2,Good,High,High,Manufacturing,Embedded Engineer,Hybrid,Embedded Eng.
+"Python, Julia","AI, Optimization",AI Engineering,3.8,2,1,Excellent,Medium,High,Research,AI Researcher,Hybrid,Researcher
+"Python, Julia","AI, Optimization",AI Engineering,3.7,1,0,Excellent,Medium,Medium,Research,AI Researcher,Hybrid,Researcher
+"PHP, JavaScript",Full Stack Dev,Software Engineering,3.54,2,2,Good,High,Medium,Technology,Full Stack Dev,On-site,Full Stack Dev
+"SQL, Python",Data Analysis,Data Science,3.72,4,0,Good,High,Medium,Technology,Data Analyst,Remote,Data Analyst
+"C, C++",Embedded Systems,Electronics Eng.,3.13,4,3,Good,Medium,High,Manufacturing,Embedded Engineer,Hybrid,Embedded Eng.
+"Java, C#",Software Development,Software Engineering,3.72,4,2,Good,Medium,Medium,Finance,Backend Developer,On-site,Software Eng.
+"PHP, JavaScript",Full Stack Dev,Software Engineering,3.07,4,2,Good,Medium,Medium,Technology,Full Stack Dev,On-site,Full Stack Dev
+"JavaScript, Python",Web Development,Software Engineering,3.99,4,0,Good,High,High,Technology,Frontend Developer,On-site,Web Developer
+"C++, Python","Robotics, IoT",Robotics,3.77,6,3,Excellent,High,High,Manufacturing,Robotics Engineer,Hybrid,Robotics Eng.
+"C, C++",Embedded Systems,Electronics Eng.,3.87,4,3,Good,Medium,Medium,Manufacturing,Embedded Engineer,Hybrid,Embedded Eng.
+"Python, R","ML, NLP",AI Engineering,3.12,5,3,Excellent,Medium,Medium,Healthcare,ML Engineer,Remote,ML Engineer
+"Python, Java","AI, ML",AI Engineering,3.76,3,3,Excellent,High,High,Technology,Data Scientist,Remote,Data Scientist
+"SQL, Python",Data Analysis,Data Science,3.25,3,1,Good,High,Medium,Technology,Data Analyst,Remote,Data Analyst
+"JavaScript, Python",Web Development,Software Engineering,3.03,6,3,Good,Medium,Medium,Technology,Frontend Developer,On-site,Web Developer
+"SQL, Python",Data Analysis,Data Science,3.07,5,0,Good,High,Medium,Technology,Data Analyst,Remote,Data Analyst
+"SQL, Python",Data Analysis,Data Science,3.74,4,3,Good,Medium,Medium,Technology,Data Analyst,Remote,Data Analyst
+"Python, Java","AI, ML",AI Engineering,3.14,3,1,Excellent,High,High,Technology,Data Scientist,Remote,Data Scientist
+"SQL, Python",Data Analysis,Data Science,3.3,2,1,Good,High,High,Technology,Data Analyst,Remote,Data Analyst
+"Java, C#",Software Development,Software Engineering,3.06,5,1,Good,High,High,Finance,Backend Developer,On-site,Software Eng.
+"Python, Java","AI, ML",AI Engineering,3.97,6,3,Excellent,High,High,Technology,Data Scientist,Remote,Data Scientist
+"HTML, CSS, JS",Web Development,Software Engineering,3.15,4,1,Good,High,Medium,Technology,UI/UX Designer,On-site,Web Designer
+"SQL, Python",Data Analysis,Data Science,3.3,6,1,Good,High,Medium,Technology,Data Analyst,Remote,Data Analyst
+"Python, Julia","AI, Optimization",AI Engineering,3.41,4,1,Excellent,High,Medium,Research,AI Researcher,Hybrid,Researcher
+"Java, C#",Software Development,Software Engineering,3.2,6,0,Good,High,High,Finance,Backend Developer,On-site,Software Eng.
+"JavaScript, Python",Web Development,Software Engineering,3.54,2,0,Good,High,High,Technology,Frontend Developer,On-site,Web Developer
+"PHP, JavaScript",Full Stack Dev,Software Engineering,3.6,1,1,Good,Medium,High,Technology,Full Stack Dev,On-site,Full Stack Dev
+"SQL, Python",Data Analysis,Data Science,3.87,3,2,Good,Medium,Medium,Technology,Data Analyst,Remote,Data Analyst
+"SQL, Python",Data Analysis,Data Science,3.96,1,3,Good,Medium,Medium,Technology,Data Analyst,Remote,Data Analyst
+"HTML, CSS, JS",Web Development,Software Engineering,3.92,5,2,Good,High,High,Technology,UI/UX Designer,On-site,Web Designer
+"C, C++",Embedded Systems,Electronics Eng.,3.53,3,2,Good,High,High,Manufacturing,Embedded Engineer,Hybrid,Embedded Eng.
+"Python, Julia","AI, Optimization",AI Engineering,3.88,4,0,Excellent,High,High,Research,AI Researcher,Hybrid,Researcher
+"SQL, Python",Data Analysis,Data Science,3.37,4,0,Good,Medium,Medium,Technology,Data Analyst,Remote,Data Analyst
+"Python, Java","AI, ML",AI Engineering,3.26,5,3,Excellent,High,Medium,Technology,Data Scientist,Remote,Data Scientist
+"SQL, Python",Data Analysis,Data Science,3.33,4,1,Good,High,High,Technology,Data Analyst,Remote,Data Analyst
+"Java, C#",Software Development,Software Engineering,3.76,4,3,Good,High,Medium,Finance,Backend Developer,On-site,Software Eng.
+"Python, R","ML, NLP",AI Engineering,3.17,6,3,Excellent,Medium,Medium,Healthcare,ML Engineer,Remote,ML Engineer
+"Python, Julia","AI, Optimization",AI Engineering,3.03,1,0,Excellent,Medium,High,Research,AI Researcher,Hybrid,Researcher
+"C++, Python","Robotics, IoT",Robotics,3.84,2,0,Excellent,Medium,Medium,Manufacturing,Robotics Engineer,Hybrid,Robotics Eng.
+"SQL, Python",Data Analysis,Data Science,3.51,3,0,Good,High,High,Technology,Data Analyst,Remote,Data Analyst
+"Python, Java","AI, ML",AI Engineering,3.01,5,3,Excellent,Medium,Medium,Technology,Data Scientist,Remote,Data Scientist
+"Python, Julia","AI, Optimization",AI Engineering,3.72,5,2,Excellent,Medium,High,Research,AI Researcher,Hybrid,Researcher
+"C++, Python","Robotics, IoT",Robotics,3.11,1,1,Excellent,Medium,Medium,Manufacturing,Robotics Engineer,Hybrid,Robotics Eng.
+"PHP, JavaScript",Full Stack Dev,Software Engineering,3.53,3,2,Good,High,Medium,Technology,Full Stack Dev,On-site,Full Stack Dev
+"Python, R","ML, NLP",AI Engineering,3.96,4,1,Excellent,Medium,High,Healthcare,ML Engineer,Remote,ML Engineer
+"JavaScript, Python",Web Development,Software Engineering,3.65,6,0,Good,Medium,High,Technology,Frontend Developer,On-site,Web Developer
+"HTML, CSS, JS",Web Development,Software Engineering,3.38,4,0,Good,Medium,Medium,Technology,UI/UX Designer,On-site,Web Designer
+"JavaScript, Python",Web Development,Software Engineering,3.5,4,2,Good,Medium,Medium,Technology,Frontend Developer,On-site,Web Developer
+"SQL, Python",Data Analysis,Data Science,3.21,6,3,Good,High,Medium,Technology,Data Analyst,Remote,Data Analyst
+"JavaScript, Python",Web Development,Software Engineering,3.68,3,0,Good,Medium,High,Technology,Frontend Developer,On-site,Web Developer
+"Python, Java","AI, ML",AI Engineering,3.96,5,1,Excellent,High,Medium,Technology,Data Scientist,Remote,Data Scientist
+"Java, C#",Software Development,Software Engineering,3.16,2,3,Good,High,High,Finance,Backend Developer,On-site,Software Eng.
+"C++, Python","Robotics, IoT",Robotics,3.79,6,0,Excellent,High,Medium,Manufacturing,Robotics Engineer,Hybrid,Robotics Eng.
+"JavaScript, Python",Web Development,Software Engineering,3.44,1,2,Good,High,High,Technology,Frontend Developer,On-site,Web Developer
+"Python, Java","AI, ML",AI Engineering,3.63,4,3,Excellent,Medium,High,Technology,Data Scientist,Remote,Data Scientist
+"Python, Julia","AI, Optimization",AI Engineering,3.94,4,1,Excellent,High,Medium,Research,AI Researcher,Hybrid,Researcher
+"PHP, JavaScript",Full Stack Dev,Software Engineering,3.3,2,0,Good,Medium,High,Technology,Full Stack Dev,On-site,Full Stack Dev
+"C++, Python","Robotics, IoT",Robotics,3.38,6,1,Excellent,High,High,Manufacturing,Robotics Engineer,Hybrid,Robotics Eng.
+"Python, R","ML, NLP",AI Engineering,3.11,1,2,Excellent,High,High,Healthcare,ML Engineer,Remote,ML Engineer
+"Java, C#",Software Development,Software Engineering,3.1,1,1,Good,High,High,Finance,Backend Developer,On-site,Software Eng.
+"Python, Julia","AI, Optimization",AI Engineering,3.55,4,0,Excellent,Medium,Medium,Research,AI Researcher,Hybrid,Researcher
+"Python, R","ML, NLP",AI Engineering,3.55,5,2,Excellent,High,Medium,Healthcare,ML Engineer,Remote,ML Engineer
+"Java, C#",Software Development,Software Engineering,3.41,1,1,Good,Medium,High,Finance,Backend Developer,On-site,Software Eng.
+"C++, Python","Robotics, IoT",Robotics,3.14,3,2,Excellent,High,Medium,Manufacturing,Robotics Engineer,Hybrid,Robotics Eng.
+"JavaScript, Python",Web Development,Software Engineering,3.17,3,3,Good,High,High,Technology,Frontend Developer,On-site,Web Developer
+"JavaScript, Python",Web Development,Software Engineering,3.36,2,3,Good,Medium,High,Technology,Frontend Developer,On-site,Web Developer
+"JavaScript, Python",Web Development,Software Engineering,3.14,1,3,Good,High,High,Technology,Frontend Developer,On-site,Web Developer
+"Python, R","ML, NLP",AI Engineering,3.44,4,1,Excellent,High,High,Healthcare,ML Engineer,Remote,ML Engineer
+"PHP, JavaScript",Full Stack Dev,Software Engineering,3.95,2,3,Good,High,Medium,Technology,Full Stack Dev,On-site,Full Stack Dev
+"HTML, CSS, JS",Web Development,Software Engineering,3.97,3,3,Good,Medium,High,Technology,UI/UX Designer,On-site,Web Designer
+"HTML, CSS, JS",Web Development,Software Engineering,3.28,4,2,Good,Medium,Medium,Technology,UI/UX Designer,On-site,Web Designer
+"PHP, JavaScript",Full Stack Dev,Software Engineering,4.0,2,0,Good,High,Medium,Technology,Full Stack Dev,On-site,Full Stack Dev
+"C, C++",Embedded Systems,Electronics Eng.,3.8,6,0,Good,High,High,Manufacturing,Embedded Engineer,Hybrid,Embedded Eng.
+"C++, Python","Robotics, IoT",Robotics,3.63,2,2,Excellent,Medium,High,Manufacturing,Robotics Engineer,Hybrid,Robotics Eng.
+"HTML, CSS, JS",Web Development,Software Engineering,3.07,5,3,Good,High,High,Technology,UI/UX Designer,On-site,Web Designer
+"Python, Julia","AI, Optimization",AI Engineering,3.04,3,0,Excellent,Medium,Medium,Research,AI Researcher,Hybrid,Researcher
+"Python, R","ML, NLP",AI Engineering,3.17,5,0,Excellent,High,High,Healthcare,ML Engineer,Remote,ML Engineer
+"HTML, CSS, JS",Web Development,Software Engineering,3.11,1,2,Good,Medium,Medium,Technology,UI/UX Designer,On-site,Web Designer
+"C, C++",Embedded Systems,Electronics Eng.,3.37,4,1,Good,High,Medium,Manufacturing,Embedded Engineer,Hybrid,Embedded Eng.
+"C, C++",Embedded Systems,Electronics Eng.,3.1,4,0,Good,Medium,Medium,Manufacturing,Embedded Engineer,Hybrid,Embedded Eng.
+"Python, R","ML, NLP",AI Engineering,3.31,4,1,Excellent,High,High,Healthcare,ML Engineer,Remote,ML Engineer
+"C, C++",Embedded Systems,Electronics Eng.,3.1,6,3,Good,High,Medium,Manufacturing,Embedded Engineer,Hybrid,Embedded Eng.
+"Java, C#",Software Development,Software Engineering,3.04,6,0,Good,Medium,High,Finance,Backend Developer,On-site,Software Eng.
+"JavaScript, Python",Web Development,Software Engineering,3.68,2,1,Good,Medium,Medium,Technology,Frontend Developer,On-site,Web Developer
+"Python, R","ML, NLP",AI Engineering,3.56,4,1,Excellent,High,Medium,Healthcare,ML Engineer,Remote,ML Engineer
+"C++, Python","Robotics, IoT",Robotics,3.64,4,3,Excellent,Medium,Medium,Manufacturing,Robotics Engineer,Hybrid,Robotics Eng.
+"C, C++",Embedded Systems,Electronics Eng.,3.59,4,0,Good,Medium,Medium,Manufacturing,Embedded Engineer,Hybrid,Embedded Eng.
+"Java, C#",Software Development,Software Engineering,3.75,1,0,Good,Medium,High,Finance,Backend Developer,On-site,Software Eng.
+"Python, R","ML, NLP",AI Engineering,3.2,1,2,Excellent,High,High,Healthcare,ML Engineer,Remote,ML Engineer
+"PHP, JavaScript",Full Stack Dev,Software Engineering,3.39,4,0,Good,High,High,Technology,Full Stack Dev,On-site,Full Stack Dev
+"C, C++",Embedded Systems,Electronics Eng.,3.62,6,2,Good,Medium,Medium,Manufacturing,Embedded Engineer,Hybrid,Embedded Eng.
+"Python, R","ML, NLP",AI Engineering,3.12,3,0,Excellent,Medium,High,Healthcare,ML Engineer,Remote,ML Engineer
+"C++, Python","Robotics, IoT",Robotics,3.51,4,1,Excellent,High,High,Manufacturing,Robotics Engineer,Hybrid,Robotics Eng.
+"C++, Python","Robotics, IoT",Robotics,3.49,5,1,Excellent,Medium,High,Manufacturing,Robotics Engineer,Hybrid,Robotics Eng.
+"Java, C#",Software Development,Software Engineering,3.14,3,3,Good,Medium,High,Finance,Backend Developer,On-site,Software Eng.
+"Python, Java","AI, ML",AI Engineering,3.48,2,3,Excellent,High,High,Technology,Data Scientist,Remote,Data Scientist
+"C, C++",Embedded Systems,Electronics Eng.,3.42,4,3,Good,Medium,Medium,Manufacturing,Embedded Engineer,Hybrid,Embedded Eng.
+"PHP, JavaScript",Full Stack Dev,Software Engineering,3.03,2,2,Good,Medium,High,Technology,Full Stack Dev,On-site,Full Stack Dev
+"SQL, Python",Data Analysis,Data Science,3.54,2,3,Good,High,Medium,Technology,Data Analyst,Remote,Data Analyst
+"PHP, JavaScript",Full Stack Dev,Software Engineering,3.11,5,2,Good,Medium,High,Technology,Full Stack Dev,On-site,Full Stack Dev
+"Python, Julia","AI, Optimization",AI Engineering,3.22,4,0,Excellent,Medium,High,Research,AI Researcher,Hybrid,Researcher
+"Python, Java","AI, ML",AI Engineering,3.45,3,0,Excellent,High,Medium,Technology,Data Scientist,Remote,Data Scientist
+"SQL, Python",Data Analysis,Data Science,3.21,6,2,Good,High,Medium,Technology,Data Analyst,Remote,Data Analyst
+"PHP, JavaScript",Full Stack Dev,Software Engineering,3.14,2,1,Good,Medium,High,Technology,Full Stack Dev,On-site,Full Stack Dev
+"Python, Julia","AI, Optimization",AI Engineering,3.28,5,1,Excellent,High,High,Research,AI Researcher,Hybrid,Researcher
+"Java, C#",Software Development,Software Engineering,3.57,5,0,Good,Medium,High,Finance,Backend Developer,On-site,Software Eng.
+"Python, Java","AI, ML",AI Engineering,3.99,6,1,Excellent,Medium,Medium,Technology,Data Scientist,Remote,Data Scientist
+"C++, Python","Robotics, IoT",Robotics,3.71,2,3,Excellent,High,Medium,Manufacturing,Robotics Engineer,Hybrid,Robotics Eng.
+"PHP, JavaScript",Full Stack Dev,Software Engineering,3.63,6,3,Good,High,High,Technology,Full Stack Dev,On-site,Full Stack Dev
+"JavaScript, Python",Web Development,Software Engineering,3.63,1,3,Good,High,High,Technology,Frontend Developer,On-site,Web Developer
+"C, C++",Embedded Systems,Electronics Eng.,3.95,3,0,Good,Medium,High,Manufacturing,Embedded Engineer,Hybrid,Embedded Eng.
+"Python, R","ML, NLP",AI Engineering,3.85,5,3,Excellent,Medium,High,Healthcare,ML Engineer,Remote,ML Engineer
+"SQL, Python",Data Analysis,Data Science,3.49,3,2,Good,High,Medium,Technology,Data Analyst,Remote,Data Analyst
+"PHP, JavaScript",Full Stack Dev,Software Engineering,3.85,3,0,Good,Medium,Medium,Technology,Full Stack Dev,On-site,Full Stack Dev
+"C, C++",Embedded Systems,Electronics Eng.,3.02,2,3,Good,High,Medium,Manufacturing,Embedded Engineer,Hybrid,Embedded Eng.
+"HTML, CSS, JS",Web Development,Software Engineering,3.2,6,1,Good,High,Medium,Technology,UI/UX Designer,On-site,Web Designer
+"Java, C#",Software Development,Software Engineering,3.09,3,2,Good,Medium,High,Finance,Backend Developer,On-site,Software Eng.
+"C++, Python","Robotics, IoT",Robotics,3.05,6,2,Excellent,Medium,High,Manufacturing,Robotics Engineer,Hybrid,Robotics Eng.
+"JavaScript, Python",Web Development,Software Engineering,3.7,1,1,Good,High,Medium,Technology,Frontend Developer,On-site,Web Developer
+"C++, Python","Robotics, IoT",Robotics,3.59,5,3,Excellent,Medium,Medium,Manufacturing,Robotics Engineer,Hybrid,Robotics Eng.
+"Python, R","ML, NLP",AI Engineering,3.82,4,1,Excellent,High,Medium,Healthcare,ML Engineer,Remote,ML Engineer
+"SQL, Python",Data Analysis,Data Science,3.38,6,0,Good,Medium,High,Technology,Data Analyst,Remote,Data Analyst
+"Python, R","ML, NLP",AI Engineering,3.88,2,3,Excellent,Medium,Medium,Healthcare,ML Engineer,Remote,ML Engineer
+"JavaScript, Python",Web Development,Software Engineering,3.53,1,1,Good,High,High,Technology,Frontend Developer,On-site,Web Developer
+"SQL, Python",Data Analysis,Data Science,3.63,2,3,Good,High,Medium,Technology,Data Analyst,Remote,Data Analyst
+"JavaScript, Python",Web Development,Software Engineering,3.9,2,0,Good,High,High,Technology,Frontend Developer,On-site,Web Developer
+"HTML, CSS, JS",Web Development,Software Engineering,3.31,2,1,Good,High,Medium,Technology,UI/UX Designer,On-site,Web Designer
+"SQL, Python",Data Analysis,Data Science,3.55,5,2,Good,Medium,High,Technology,Data Analyst,Remote,Data Analyst
+"SQL, Python",Data Analysis,Data Science,3.52,5,1,Good,High,High,Technology,Data Analyst,Remote,Data Analyst
+"Python, Java","AI, ML",AI Engineering,3.78,2,3,Excellent,High,Medium,Technology,Data Scientist,Remote,Data Scientist
+"SQL, Python",Data Analysis,Data Science,3.5,5,0,Good,Medium,High,Technology,Data Analyst,Remote,Data Analyst
+"Python, R","ML, NLP",AI Engineering,3.13,5,3,Excellent,High,Medium,Healthcare,ML Engineer,Remote,ML Engineer
+"C, C++",Embedded Systems,Electronics Eng.,3.95,1,0,Good,Medium,Medium,Manufacturing,Embedded Engineer,Hybrid,Embedded Eng.
+"Java, C#",Software Development,Software Engineering,3.22,1,3,Good,High,High,Finance,Backend Developer,On-site,Software Eng.
+"HTML, CSS, JS",Web Development,Software Engineering,3.7,1,1,Good,High,Medium,Technology,UI/UX Designer,On-site,Web Designer
+"Java, C#",Software Development,Software Engineering,3.08,2,1,Good,High,High,Finance,Backend Developer,On-site,Software Eng.
+"PHP, JavaScript",Full Stack Dev,Software Engineering,3.63,6,0,Good,High,High,Technology,Full Stack Dev,On-site,Full Stack Dev
+"SQL, Python",Data Analysis,Data Science,3.06,1,3,Good,Medium,High,Technology,Data Analyst,Remote,Data Analyst
+"PHP, JavaScript",Full Stack Dev,Software Engineering,3.61,3,1,Good,Medium,Medium,Technology,Full Stack Dev,On-site,Full Stack Dev
+"C++, Python","Robotics, IoT",Robotics,3.7,2,3,Excellent,High,High,Manufacturing,Robotics Engineer,Hybrid,Robotics Eng.
+"C++, Python","Robotics, IoT",Robotics,3.37,6,2,Excellent,Medium,Medium,Manufacturing,Robotics Engineer,Hybrid,Robotics Eng.
+"Python, R","ML, NLP",AI Engineering,3.81,3,0,Excellent,High,Medium,Healthcare,ML Engineer,Remote,ML Engineer
+"C, C++",Embedded Systems,Electronics Eng.,3.46,3,0,Good,High,Medium,Manufacturing,Embedded Engineer,Hybrid,Embedded Eng.
+"Python, R","ML, NLP",AI Engineering,3.16,1,0,Excellent,Medium,Medium,Healthcare,ML Engineer,Remote,ML Engineer
+"Python, Java","AI, ML",AI Engineering,3.86,1,1,Excellent,Medium,High,Technology,Data Scientist,Remote,Data Scientist
+"Python, R","ML, NLP",AI Engineering,3.38,2,1,Excellent,Medium,High,Healthcare,ML Engineer,Remote,ML Engineer
+"SQL, Python",Data Analysis,Data Science,3.32,4,2,Good,High,Medium,Technology,Data Analyst,Remote,Data Analyst
+"PHP, JavaScript",Full Stack Dev,Software Engineering,3.37,5,0,Good,Medium,Medium,Technology,Full Stack Dev,On-site,Full Stack Dev
+"Python, Julia","AI, Optimization",AI Engineering,3.98,4,0,Excellent,High,High,Research,AI Researcher,Hybrid,Researcher
+"Java, C#",Software Development,Software Engineering,3.33,5,3,Good,Medium,High,Finance,Backend Developer,On-site,Software Eng.
+"SQL, Python",Data Analysis,Data Science,3.29,3,1,Good,High,High,Technology,Data Analyst,Remote,Data Analyst
+"PHP, JavaScript",Full Stack Dev,Software Engineering,3.97,2,1,Good,Medium,Medium,Technology,Full Stack Dev,On-site,Full Stack Dev
+"HTML, CSS, JS",Web Development,Software Engineering,3.02,5,2,Good,Medium,High,Technology,UI/UX Designer,On-site,Web Designer
+"Python, Java","AI, ML",AI Engineering,3.76,4,2,Excellent,Medium,Medium,Technology,Data Scientist,Remote,Data Scientist
+"Python, Julia","AI, Optimization",AI Engineering,3.98,4,3,Excellent,Medium,Medium,Research,AI Researcher,Hybrid,Researcher
+"Java, C#",Software Development,Software Engineering,3.09,2,3,Good,High,High,Finance,Backend Developer,On-site,Software Eng.
