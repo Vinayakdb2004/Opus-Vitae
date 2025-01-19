@@ -46,7 +46,7 @@ def login():
 
     # Redirect to main page if logged in
     if st.session_state.logged_in:
-        import pages.main as main_page  # Importing the main functionality page.
+        import main as main_page  # Importing the main functionality page.
         main_page.main()  # Call the main function to display it.
 
 if __name__ == "__main__":
