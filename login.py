@@ -1,5 +1,5 @@
 import streamlit as st
-from utils.database import create_connection, create_table, add_user, get_user
+from database import create_connection, create_table, add_user, get_user
 
 # Initialize database connection
 conn = create_connection("users.db")
